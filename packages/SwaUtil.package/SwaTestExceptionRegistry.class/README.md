@@ -1,0 +1,1 @@
+A SwaTestExceptionRegistry is a storage for signal exception after running test cases. Sometimes it is necessary to access the reason of failing tests. This registry stores test cases as weak keys and there exceptional results as values (nil if passed). This registry prevents an additional instance variable in TestResult.

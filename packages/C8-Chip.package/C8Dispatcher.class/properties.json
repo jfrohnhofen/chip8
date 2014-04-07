@@ -1,0 +1,16 @@
+{
+	"category" : "C8-Chip",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"opcode",
+		"cpu",
+		"rootTable" ],
+	"name" : "C8Dispatcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"children",
+		"currentIndex" ],
+	"name" : "SwaStackedWidget",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

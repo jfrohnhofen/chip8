@@ -1,0 +1,1 @@
+A standard 8-Bit register.

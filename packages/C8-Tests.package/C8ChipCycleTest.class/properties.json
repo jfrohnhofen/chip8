@@ -1,0 +1,16 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"chip",
+		"pc",
+		"r4" ],
+	"name" : "C8ChipCycleTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

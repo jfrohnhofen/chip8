@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"example1" : "mt 4/5/2010 14:29:52",
+		"label:receiver:selector:" : "mt 4/5/2010 14:29:01",
+		"label:receiver:selector:help:" : "mt 4/5/2010 17:59:42" },
+	"instance" : {
+		"actionSelector:" : "mt 4/5/2010 14:34:20",
+		"initialize" : "mt 4/5/2010 14:20:23",
+		"mouseDown:" : "mt 4/5/2010 14:21:29",
+		"mouseUp:" : "mt 4/5/2010 14:21:40" } }

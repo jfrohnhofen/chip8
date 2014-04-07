@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "C8Display",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

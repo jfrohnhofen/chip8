@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Collections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"orderedKeys" ],
+	"name" : "OrderedKeysIdentityDictionary",
+	"pools" : [
+		 ],
+	"super" : "IdentityDictionary",
+	"type" : "normal" }

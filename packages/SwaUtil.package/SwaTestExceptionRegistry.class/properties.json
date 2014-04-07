@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-SUnit",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TestCases" ],
+	"commentStamp" : "mp 7/11/2013 10:18:16.799",
+	"instvars" : [
+		 ],
+	"name" : "SwaTestExceptionRegistry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

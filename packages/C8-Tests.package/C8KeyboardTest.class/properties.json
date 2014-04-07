@@ -1,0 +1,19 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cpu",
+		"register0",
+		"register1",
+		"register2",
+		"registerF",
+		"keyboard" ],
+	"name" : "C8KeyboardTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

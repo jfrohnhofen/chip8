@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:ifAbsentPut:" : "bs 1/21/2010 16:03",
+		"orderedKeys" : "bs 1/22/2010 10:30",
+		"removeKey:ifAbsent:" : "bs 1/21/2010 13:57",
+		"removeKeysFrom:toLastAndDo:" : "bs 1/21/2010 13:01" } }

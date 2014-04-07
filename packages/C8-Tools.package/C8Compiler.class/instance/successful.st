@@ -1,0 +1,4 @@
+compiling
+successful
+
+	^ self errors = ''

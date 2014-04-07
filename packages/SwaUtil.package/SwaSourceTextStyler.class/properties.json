@@ -1,0 +1,15 @@
+{
+	"category" : "SwaUtil",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"registeredStylers",
+		"enabled" ],
+	"name" : "SwaSourceTextStyler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

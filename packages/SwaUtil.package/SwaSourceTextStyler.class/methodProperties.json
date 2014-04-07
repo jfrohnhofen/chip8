@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"instance" : "bs 12/22/2009 10:46",
+		"new" : "bs 12/22/2009 09:42" },
+	"instance" : {
+		"disable" : "mt 1/22/2010 12:33:34",
+		"enable" : "mt 1/22/2010 12:33:28",
+		"enabled" : "mt 1/22/2010 12:33:48",
+		"registerStyler:" : "bs 12/22/2009 10:35",
+		"registeredStylers" : "bs 12/22/2009 10:36",
+		"styleSource:of:" : "mt 1/22/2010 12:34:51",
+		"unregisterStyler:" : "bs 12/22/2009 09:58" } }

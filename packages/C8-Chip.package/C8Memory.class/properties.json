@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Chip",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"content" ],
+	"name" : "C8Memory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

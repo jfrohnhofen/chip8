@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 12/15/2009 14:27",
+	"instvars" : [
+		 ],
+	"name" : "SwaGeneralScrollBar",
+	"pools" : [
+		 ],
+	"super" : "ScrollBar",
+	"type" : "normal" }

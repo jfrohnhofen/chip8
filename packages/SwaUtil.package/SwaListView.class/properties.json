@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SwaListView",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorph",
+	"type" : "normal" }

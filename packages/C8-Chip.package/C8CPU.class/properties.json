@@ -1,0 +1,21 @@
+{
+	"category" : "C8-Chip",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "FD 7/2/2013 09:31:57.482",
+	"instvars" : [
+		"registers",
+		"stack",
+		"dispatcher",
+		"ram",
+		"frequency",
+		"keyboard",
+		"graphics",
+		"sound" ],
+	"name" : "C8CPU",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

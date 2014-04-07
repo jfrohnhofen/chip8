@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cpu" ],
+	"name" : "C8CpuPCTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

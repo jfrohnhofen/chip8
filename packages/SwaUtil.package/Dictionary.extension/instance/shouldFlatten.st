@@ -1,0 +1,4 @@
+*SwaUtil
+shouldFlatten
+
+	^ false

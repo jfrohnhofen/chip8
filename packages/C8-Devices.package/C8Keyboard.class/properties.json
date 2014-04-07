@@ -1,0 +1,17 @@
+{
+	"category" : "C8-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keyStates",
+		"lastKey",
+		"waitSemaphore",
+		"buttons" ],
+	"name" : "C8Keyboard",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

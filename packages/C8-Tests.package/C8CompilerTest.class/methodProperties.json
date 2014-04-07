@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertBreakpointToken:" : "JF 7/16/2013 22:29:40.574",
+		"assertDataToken:" : "JF 7/16/2013 22:30:20.52",
+		"assertOpcodeToken:" : "JFS 7/16/2013 19:28:47.96",
+		"compiler" : "jf 6/24/2013 01:30:18.044",
+		"compiler:" : "jf 6/24/2013 01:30:18.056",
+		"mazeBinary" : "jf 6/24/2013 01:33:05.081",
+		"mazeSource" : "JF 7/16/2013 19:38:12.264",
+		"parseSource" : "JF 7/16/2013 22:29:09.301",
+		"sampleSource" : "JF 7/16/2013 23:01:20.414",
+		"setUp" : "jf 6/24/2013 01:29:57.083",
+		"testBreakpoints" : "JF 7/16/2013 23:07:04.427",
+		"testDataToken" : "JFS 7/20/2013 19:33:18.86",
+		"testLabels" : "JFS 7/20/2013 19:33:47.524",
+		"testMapping" : "JF 7/16/2013 23:07:17.158",
+		"testMaze" : "JF 7/17/2013 14:22:51.001",
+		"testMessages" : "JF 7/16/2013 22:58:54.849",
+		"testOpcodeToken" : "JF 7/16/2013 17:41:44.756",
+		"testOpcodes" : "JF 7/16/2013 17:48:07.54",
+		"testParse" : "JF 7/16/2013 22:26:09.295",
+		"testRegex" : "JF 7/20/2013 23:53:27.686",
+		"testToken" : "jf 6/24/2013 02:51:18.943" } }

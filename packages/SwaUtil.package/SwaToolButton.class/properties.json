@@ -1,0 +1,16 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 4/5/2010 11:20:16",
+	"instvars" : [
+		"isCheckable",
+		"checkState",
+		"isAutoExclusive" ],
+	"name" : "SwaToolButton",
+	"pools" : [
+		 ],
+	"super" : "IconicButton",
+	"type" : "normal" }

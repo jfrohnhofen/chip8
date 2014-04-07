@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"defaultHeight" : "mt 4/5/2010 20:21:23",
+		"defaultWidth" : "mt 4/5/2010 19:52:26",
+		"example1" : "mt 4/5/2010 20:16:35",
+		"getTextWithTitle:label:" : "mt 4/16/2010 14:33:34.503",
+		"getTextWithTitle:label:value:" : "mt 4/16/2010 14:32:43.09" },
+	"instance" : {
+		"createTextInput" : "mt 4/5/2010 20:02:27",
+		"initialize" : "mt 4/5/2010 20:16:58",
+		"initializeWithTitle:label:" : "mt 4/5/2010 20:15:22",
+		"open" : "mt 4/5/2010 19:53:49",
+		"setText:" : "mt 4/16/2010 14:32:18.058",
+		"text" : "mt 4/5/2010 20:00:38" } }

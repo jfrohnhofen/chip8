@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastMessage" ],
+	"name" : "C8Mock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

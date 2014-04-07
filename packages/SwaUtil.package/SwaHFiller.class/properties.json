@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Widgets-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SwaHFiller",
+	"pools" : [
+		 ],
+	"super" : "SwaPanel",
+	"type" : "normal" }

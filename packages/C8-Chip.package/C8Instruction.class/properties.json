@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Chip",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jbs 5/7/2013 18:07:58.269",
+	"instvars" : [
+		 ],
+	"name" : "C8Instruction",
+	"pools" : [
+		 ],
+	"super" : "C8Register",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+listSelectionIndex
+
+	^ listSelectionIndex

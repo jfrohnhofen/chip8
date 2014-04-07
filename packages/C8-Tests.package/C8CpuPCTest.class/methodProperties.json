@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertPcAdvance:by:" : "JFS 7/20/2013 19:25:16.772",
+		"assertPcAdvanceBy:" : "JFS 7/20/2013 19:25:06.352",
+		"cpu" : "FD 6/6/2013 00:01:15.9",
+		"cpu:" : "FD 6/6/2013 00:01:31.544",
+		"loadROM:" : "JF 7/16/2013 18:00:38.096",
+		"setUp" : "jf 6/22/2013 15:09:40.316",
+		"testKeyboard" : "JFS 7/20/2013 19:24:37.262",
+		"testKeyboardInverse" : "JFS 7/20/2013 19:24:31.864",
+		"testSeVxByte" : "JF 7/16/2013 18:19:09.345",
+		"testSeVxVy" : "JF 7/16/2013 18:18:37.282",
+		"testSneVxByte" : "JF 7/16/2013 19:44:01.785",
+		"testSneVxVy" : "JF 7/16/2013 18:17:40.459" } }

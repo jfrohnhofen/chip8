@@ -1,0 +1,15 @@
+{
+	"category" : "C8-IDE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"activeLine",
+		"breakpoints" ],
+	"name" : "C8CodeViewer",
+	"pools" : [
+		 ],
+	"super" : "TextMorphForEditView",
+	"type" : "normal" }

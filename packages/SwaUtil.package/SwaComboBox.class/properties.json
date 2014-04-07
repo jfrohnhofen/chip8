@@ -1,0 +1,22 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 4/5/2010 18:12:19",
+	"instvars" : [
+		"contentMorph",
+		"listMorph",
+		"buttonMorph",
+		"list",
+		"listSelectionIndex",
+		"getListSelector",
+		"getIndexSelector",
+		"setIndexSelector",
+		"useSelectionIndex" ],
+	"name" : "SwaComboBox",
+	"pools" : [
+		 ],
+	"super" : "MorphicModel",
+	"type" : "normal" }

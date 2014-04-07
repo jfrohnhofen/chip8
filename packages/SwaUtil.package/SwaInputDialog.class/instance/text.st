@@ -1,0 +1,4 @@
+accessing
+text
+
+	^ contents contents

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"keyboard" : "FD 5/16/2013 00:33:44.24",
+		"keyboard:" : "JFS 5/18/2013 15:02:59.755",
+		"sendKeyboardEvent:from:" : "JFS 7/20/2013 19:40:44.488",
+		"setUp" : "FD 5/16/2013 00:35:48.02",
+		"tearDown" : "FD 6/5/2013 18:20:23.932",
+		"testClearLastKey" : "JFS 5/22/2013 00:50:09.018",
+		"testKeyUp" : "JF 7/17/2013 21:56:38.504" } }

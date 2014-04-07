@@ -1,0 +1,15 @@
+{
+	"category" : "SwaUtil-Widgets-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"list",
+		"selectionIndex" ],
+	"name" : "SwaListModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

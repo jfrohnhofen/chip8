@@ -1,0 +1,3 @@
+*SwaUtil
+isTestCaseClass
+	^ true

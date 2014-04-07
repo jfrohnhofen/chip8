@@ -1,0 +1,4 @@
+accessing
+getIndexSelector
+
+	^ getIndexSelector

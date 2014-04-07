@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data" ],
+	"name" : "C8DataToken",
+	"pools" : [
+		 ],
+	"super" : "C8Token",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "bs 3/3/2010 08:03:55.665",
+		"at:" : "bs 3/2/2010 11:48:14.312",
+		"do:" : "bs 3/2/2010 11:52:52.576",
+		"indexOf:" : "bs 3/2/2010 13:06:54.019",
+		"indexOf:ifAbsent:" : "bs 3/2/2010 13:09:14.145",
+		"matchesElement:with:" : "bs 3/2/2010 11:56:37.03",
+		"noCheckNoGrowFillFrom:" : "bs 3/2/2010 12:09:53.213",
+		"remove:ifAbsent:" : "bs 3/3/2010 08:10:11.32",
+		"scanFor:" : "bs 3/3/2010 08:03:47.267",
+		"scanForEmptySlot" : "bs 3/2/2010 12:46:19.321",
+		"scanForEmptySlotFor2:" : "bs 3/2/2010 12:47:45.055",
+		"scanForOrNil:" : "bs 3/2/2010 12:49:11.757" } }

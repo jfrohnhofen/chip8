@@ -1,0 +1,22 @@
+{
+	"category" : "C8-Chip",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ram",
+		"debugger",
+		"display",
+		"graphics",
+		"sound",
+		"keyboard",
+		"cpu",
+		"process",
+		"timers" ],
+	"name" : "C8Chip",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

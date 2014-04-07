@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "C8MemoryAccessViolation",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

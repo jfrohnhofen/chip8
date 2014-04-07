@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"disassemble:" : "JF 7/20/2013 22:21:39.935",
+		"dispatcher" : "FD 6/12/2013 09:39:01.918",
+		"dispatcher:" : "FD 6/12/2013 09:38:42.416",
+		"doesNotUnderstand:" : "JF 7/20/2013 21:38:35.175",
+		"formatOpcodeAsBytes" : "JF 7/17/2013 12:29:32.172",
+		"initialize" : "JF 7/17/2013 12:29:41.07",
+		"opcode" : "JF 7/16/2013 01:31:14.836",
+		"opcode:" : "JF 7/16/2013 01:31:14.845",
+		"printData" : "JF 7/17/2013 12:29:49.709",
+		"printOpcode:with:" : "JF 7/17/2013 12:30:42.405",
+		"source" : "JF 7/15/2013 00:07:14.829",
+		"source:" : "JF 7/15/2013 00:07:14.84" } }

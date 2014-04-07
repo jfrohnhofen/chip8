@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addWidget:" : "mt 4/5/2010 12:07:39",
+		"children" : "mt 4/5/2010 12:04:48",
+		"currentIndex" : "mt 4/5/2010 12:07:16",
+		"currentIndex:" : "mt 4/5/2010 12:52:06",
+		"initialize" : "mt 4/5/2010 12:55:12",
+		"updateCurrentChild" : "mt 4/5/2010 12:37:33" } }

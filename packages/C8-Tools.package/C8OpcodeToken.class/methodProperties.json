@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildByteArray:" : "JFS 7/20/2013 19:18:59.854",
+		"evaluateKK:using:" : "JF 7/17/2013 12:36:56.912",
+		"evaluateN:using:" : "JF 7/17/2013 12:36:59.571",
+		"evaluateNNN:using:" : "JF 7/17/2013 12:37:02.432",
+		"evaluateOpcode:" : "JF 7/17/2013 12:37:05.452",
+		"evaluateUsing:" : "JF 7/20/2013 22:32:18.521",
+		"evaluateX:" : "jf 6/24/2013 01:10:14.241",
+		"evaluateY:" : "jf 6/24/2013 01:10:59.758",
+		"format" : "JF 7/17/2013 12:39:30.266",
+		"opcode" : "jf 6/23/2013 19:55:25.016",
+		"opcode:" : "jf 6/23/2013 19:55:25.025",
+		"parameters" : "jf 6/23/2013 19:55:25.032",
+		"parameters:" : "jf 6/23/2013 19:55:25.037" } }

@@ -1,0 +1,4 @@
+properties
+mapping
+
+	^ self address

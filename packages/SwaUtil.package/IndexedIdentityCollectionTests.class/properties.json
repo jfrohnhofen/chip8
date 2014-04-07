@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Collections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sut" ],
+	"name" : "IndexedIdentityCollectionTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

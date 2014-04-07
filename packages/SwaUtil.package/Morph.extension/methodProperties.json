@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addMorphs:" : "mt 6/28/2011 14:42:30.426",
+		"allSubmorphsWith:do:" : "SR 4/18/2009 11:25",
+		"inAColumn:" : "bs 3/21/2011 11:30:24.314",
+		"inARow:" : "bs 3/21/2011 11:30:29.982",
+		"newSpaceBuffer" : "bs 12/4/2012 13:11:40.683",
+		"newSpaceBufferOfHeight:" : "bs 12/4/2012 13:12:03.779",
+		"newSpaceBufferOfWidth:" : "bs 12/4/2012 13:12:18.856",
+		"newSpacer" : "bs 4/28/2011 11:41:13.9",
+		"removeMorphsAfter:" : "TM 3/30/2011 17:46:29.33",
+		"submorphOverlapsWith:" : "mt 10/9/2009 11:17" } }

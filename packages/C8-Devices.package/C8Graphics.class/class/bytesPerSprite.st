@@ -1,0 +1,4 @@
+constants
+bytesPerSprite
+
+	^ 5

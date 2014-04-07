@@ -1,0 +1,16 @@
+{
+	"category" : "C8-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"buffer",
+		"sprites",
+		"collisionFlag" ],
+	"name" : "C8Graphics",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

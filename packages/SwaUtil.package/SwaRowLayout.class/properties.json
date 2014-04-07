@@ -1,0 +1,15 @@
+{
+	"category" : "SwaUtil-Widgets-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 4/5/2010 18:32:51",
+	"instvars" : [
+		"cachedMinExtent",
+		"cachedMinExtents" ],
+	"name" : "SwaRowLayout",
+	"pools" : [
+		 ],
+	"super" : "LayoutPolicy",
+	"type" : "normal" }

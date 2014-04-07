@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 4/5/2010 20:18:28",
+	"instvars" : [
+		"contents" ],
+	"name" : "SwaInputDialog",
+	"pools" : [
+		 ],
+	"super" : "SwaDialog",
+	"type" : "normal" }

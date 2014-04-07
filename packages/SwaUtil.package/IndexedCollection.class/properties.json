@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Collections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IndexedCollection",
+	"pools" : [
+		 ],
+	"super" : "HashedCollection",
+	"type" : "normal" }

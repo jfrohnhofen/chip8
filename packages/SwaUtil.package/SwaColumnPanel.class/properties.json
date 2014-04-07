@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Widgets-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 4/8/2010 17:23:17.451",
+	"instvars" : [
+		 ],
+	"name" : "SwaColumnPanel",
+	"pools" : [
+		 ],
+	"super" : "SwaPanel",
+	"type" : "normal" }

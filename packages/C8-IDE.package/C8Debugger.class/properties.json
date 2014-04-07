@@ -1,0 +1,25 @@
+{
+	"category" : "C8-IDE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"binary",
+		"buttons",
+		"source",
+		"chip",
+		"codeViewer",
+		"editor",
+		"mapping",
+		"breakpoints",
+		"stepping",
+		"haltOnBreakpoint",
+		"registerMorph",
+		"registers" ],
+	"name" : "C8Debugger",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

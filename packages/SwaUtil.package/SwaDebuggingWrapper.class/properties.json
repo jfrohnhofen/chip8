@@ -1,0 +1,16 @@
+{
+	"category" : "SwaUtil",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodClass",
+		"selector",
+		"clientMethod" ],
+	"name" : "SwaDebuggingWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

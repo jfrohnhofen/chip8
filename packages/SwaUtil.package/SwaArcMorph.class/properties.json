@@ -1,0 +1,18 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 7/8/2010 18:48:36.958",
+	"instvars" : [
+		"radius",
+		"form",
+		"startDegree",
+		"endDegree",
+		"drawInnerBorder" ],
+	"name" : "SwaArcMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

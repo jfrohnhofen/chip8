@@ -1,0 +1,20 @@
+{
+	"category" : "C8-IDE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"compiler",
+		"disassembler",
+		"console",
+		"editor",
+		"source",
+		"binary",
+		"debugger" ],
+	"name" : "C8IDE",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

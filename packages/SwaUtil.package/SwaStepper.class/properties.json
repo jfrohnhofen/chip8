@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blockToExecute" ],
+	"name" : "SwaStepper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+Draw an arc. Be sure that the startDegree is lower than the endDegree. Cannot use magenta as color.

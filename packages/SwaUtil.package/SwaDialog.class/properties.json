@@ -1,0 +1,16 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contentMorph",
+		"buttons",
+		"cancelled" ],
+	"name" : "SwaDialog",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

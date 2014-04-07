@@ -1,0 +1,4 @@
+constants
+opcodeLength
+	
+	^ 2

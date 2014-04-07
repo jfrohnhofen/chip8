@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 4/5/2010 14:27:26",
+	"instvars" : [
+		 ],
+	"name" : "SwaPushButton",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

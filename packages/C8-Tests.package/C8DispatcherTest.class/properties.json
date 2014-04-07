@@ -1,0 +1,15 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cpu",
+		"dispatcher" ],
+	"name" : "C8DispatcherTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

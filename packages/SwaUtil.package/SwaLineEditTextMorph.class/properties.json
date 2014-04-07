@@ -1,0 +1,14 @@
+{
+	"category" : "SwaUtil-Widgets-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 4/5/2010 17:07:39",
+	"instvars" : [
+		"autoAccept" ],
+	"name" : "SwaLineEditTextMorph",
+	"pools" : [
+		 ],
+	"super" : "TextMorphForEditView",
+	"type" : "normal" }

@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"breakpoint:" : "JF 7/5/2013 22:00:47.551",
+		"data:lineNumber:address:" : "JF 7/5/2013 20:12:15.138",
+		"label:" : "JF 7/5/2013 19:54:25.798",
+		"opcode:parameters:line:address:" : "JF 7/17/2013 12:39:50.463" },
+	"instance" : {
+		"address" : "JF 7/5/2013 19:55:02.665",
+		"address:" : "JF 7/5/2013 19:55:02.678",
+		"breakpoint" : "JF 7/17/2013 12:31:02.76",
+		"convertLiteralsToSqueak:" : "JF 7/17/2013 12:32:12.225",
+		"errors" : "JF 7/5/2013 18:20:54.534",
+		"errors:" : "JF 7/15/2013 01:28:41.544",
+		"evaluate:using:nibbleCount:nibbleShift:" : "JFS 7/20/2013 19:17:25.59",
+		"evaluateByte:" : "JF 7/17/2013 12:33:56.958",
+		"evaluateUsing:" : "JF 7/17/2013 12:33:59.807",
+		"format" : "JF 7/17/2013 12:34:02.658",
+		"formatAddress" : "JF 7/17/2013 22:01:08.776",
+		"initialize" : "JF 7/17/2013 12:34:37.467",
+		"isValidResult:" : "JF 7/17/2013 12:34:40.216",
+		"line" : "JF 7/5/2013 20:10:48.568",
+		"line:" : "JF 7/5/2013 20:10:48.58",
+		"lineNumber" : "JF 7/5/2013 18:26:18.913",
+		"lineNumber:" : "JF 7/5/2013 18:26:18.924",
+		"mapping" : "JF 7/17/2013 12:34:47.908",
+		"reportError:" : "JF 7/17/2013 12:34:51.338" } }

@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"example1" : "mt 4/5/2010 17:38:58",
+		"example2" : "mt 4/8/2010 16:42:40.458",
+		"for:get:set:" : "mt 4/5/2010 20:02:17",
+		"for:get:set:help:" : "mt 4/5/2010 17:59:09" },
+	"instance" : {
+		"acceptTextInModel" : "mt 4/8/2010 16:41:49.489",
+		"autoAccept" : "mt 4/5/2010 17:17:55",
+		"autoAccept:" : "mt 4/5/2010 17:17:47",
+		"convertText" : "mt 4/8/2010 16:39:00.854",
+		"convertedText" : "mt 4/8/2010 16:45:03.14",
+		"convertedValue" : "mt 4/8/2010 16:47:13.749",
+		"initialize" : "mt 4/5/2010 17:42:16",
+		"scrollByKeyboard:" : "mt 4/5/2010 15:51:34",
+		"scrollSelectionIntoView:" : "mt 4/5/2010 15:51:45",
+		"setText:" : "mt 4/8/2010 17:18:43.677",
+		"textMorphClass" : "mt 4/5/2010 15:59:30",
+		"update:" : "mt 4/5/2010 15:23:02",
+		"validator" : "mt 4/8/2010 16:40:18.073",
+		"validator:" : "mt 4/8/2010 16:29:42.938" } }

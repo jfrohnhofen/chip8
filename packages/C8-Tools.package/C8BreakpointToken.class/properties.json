@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "C8BreakpointToken",
+	"pools" : [
+		 ],
+	"super" : "C8Token",
+	"type" : "normal" }

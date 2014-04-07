@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ide" ],
+	"name" : "C8IDETest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

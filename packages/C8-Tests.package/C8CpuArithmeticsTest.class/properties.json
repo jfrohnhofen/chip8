@@ -1,0 +1,18 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cpu",
+		"register0",
+		"register1",
+		"register2",
+		"registerF" ],
+	"name" : "C8CpuArithmeticsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"buttonGroupFor:orientation:" : "mt 4/5/2010 12:27:45",
+		"example1" : "mt 4/5/2010 11:22:52",
+		"example2" : "mt 4/5/2010 11:44:19",
+		"icon:label:receiver:selector:" : "mt 4/5/2010 14:31:51",
+		"icon:label:receiver:selector:help:" : "mt 4/5/2010 18:00:11" },
+	"instance" : {
+		"actionSelector:" : "mt 4/5/2010 14:34:10",
+		"checkState" : "mt 4/5/2010 10:43:04",
+		"checkState:" : "mt 4/5/2010 11:36:01",
+		"initialize" : "mt 4/5/2010 11:12:58",
+		"isAutoExclusive" : "mt 4/5/2010 11:24:52",
+		"isAutoExclusive:" : "mt 4/5/2010 11:29:13",
+		"isCheckable" : "mt 4/5/2010 10:35:59",
+		"isCheckable:" : "mt 4/5/2010 10:35:26",
+		"isChecked" : "mt 4/5/2010 10:44:00",
+		"mouseDown:" : "mt 4/5/2010 11:08:19",
+		"mouseEnter:" : "mt 4/5/2010 10:50:36",
+		"mouseLeave:" : "mt 4/5/2010 10:50:43",
+		"mouseMove:" : "mt 4/5/2010 14:23:41",
+		"mouseUp:" : "mt 4/5/2010 11:20:42",
+		"setChecked:" : "mt 4/5/2010 11:14:51",
+		"toggle" : "mt 4/5/2010 11:37:50",
+		"updateHoverEffect" : "mt 4/5/2010 11:08:06",
+		"updateVisualState" : "mt 4/5/2010 11:03:52",
+		"updateVisualState:" : "mt 4/5/2010 11:03:59" } }

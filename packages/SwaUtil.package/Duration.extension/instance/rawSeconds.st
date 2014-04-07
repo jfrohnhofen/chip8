@@ -1,0 +1,4 @@
+*swautil
+rawSeconds
+
+	^ seconds

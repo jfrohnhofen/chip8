@@ -1,0 +1,16 @@
+{
+	"category" : "SwaUtil-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 12/15/2009 14:27",
+	"instvars" : [
+		"scroller",
+		"hScrollbar",
+		"vScrollbar" ],
+	"name" : "SwaGeneralScrollPane",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertButtons:" : "JF 7/17/2013 01:19:40.285",
+		"debugger" : "JF 7/16/2013 23:19:46.742",
+		"debugger:" : "JF 7/16/2013 23:19:46.751",
+		"mazeBinary" : "JF 7/17/2013 00:30:48.28",
+		"setUp" : "JF 7/17/2013 00:50:06.904",
+		"tearDown" : "JF 7/16/2013 23:22:59.448",
+		"testButtons" : "JF 7/17/2013 01:21:05.863",
+		"testChipShouldHalt" : "JF 7/16/2013 23:48:43.938",
+		"testPluggableCodeViewer" : "JF 7/16/2013 23:19:24.598",
+		"testStepping" : "JFS 7/20/2013 19:40:07.734" } }

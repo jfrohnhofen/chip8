@@ -1,0 +1,16 @@
+{
+	"category" : "C8-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dispatcher",
+		"source",
+		"opcode" ],
+	"name" : "C8Disassembler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

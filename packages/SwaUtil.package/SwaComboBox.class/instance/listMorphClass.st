@@ -1,0 +1,4 @@
+initialization
+listMorphClass
+
+	^ SwaListView

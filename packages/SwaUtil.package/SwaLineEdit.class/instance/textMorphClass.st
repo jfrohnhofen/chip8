@@ -1,0 +1,4 @@
+initialization
+textMorphClass
+
+	^ SwaLineEditTextMorph

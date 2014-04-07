@@ -1,0 +1,23 @@
+{
+	"category" : "C8-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentAddress",
+		"currentLineNumber",
+		"instructions",
+		"labels",
+		"tokens",
+		"binary",
+		"errors",
+		"source",
+		"breakpoints",
+		"mapping" ],
+	"name" : "C8Compiler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

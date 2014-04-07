@@ -1,0 +1,14 @@
+{
+	"category" : "C8-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "C8DisassembleCompileTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
