@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfC8",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfC8",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
