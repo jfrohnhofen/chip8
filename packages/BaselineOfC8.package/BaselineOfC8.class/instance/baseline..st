@@ -11,9 +11,13 @@ baseline: spec
                 package: 'C8-IDE' with: [ spec requires: #('C8-Tools') ];
                 package: 'C8-Exceptions';
                 package: 'C8-Devices' with: [ spec requires: #('C8-Exceptions') ];
-                package: 'C8-Tests' with: [ spec requires: #('Base' 'IDE') ].
+                package: 'C8-Tests' with: [ spec requires: #('Base' 'IDE') ];
+                package: 'VB-Regex'
+                    with: [ spec requires: #('C8-Chip') ];
+                package: 'SwaUtil'
+                    with: [ spec requires: #('C8-Chip') ].
             spec
-                group: 'Base' with: #('C8-Chip' 'C8-Tools' 'C8-SAR' 'C8-Devices');
+                group: 'Base' with: #('C8-Chip' 'C8-Tools' 'C8-SAR' 'C8-Devices' 'VB-Regex' 'SwaUtil');
                 group: 'IDE' with: #('C8-IDE');
                 group: 'Tests' with: #('default' 'C8-Tests');
                 group: 'default' with: #('Base' 'IDE');
