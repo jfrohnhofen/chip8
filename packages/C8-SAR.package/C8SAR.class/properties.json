@@ -1,0 +1,14 @@
+{
+	"category" : "C8-SAR",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "C8SAR",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
